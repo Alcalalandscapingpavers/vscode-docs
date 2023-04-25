@@ -4,3 +4,5 @@ Copyright (c) Microsoft Corporation. All rights reserved. Distributed under the 
 
 2.	This license does not grant you rights to use any trademarks or logos of Microsoft. For Microsoft’s general trademark guidelines, go to  https://go.microsoft.com/fwlink/?LinkID=254653.
 
+//[#6242](https://github.com/microsoft/vscode-docs/issues/6242)
+The URL for the landscaping pavers Alcala blog is: https://landscapingpaversalcala.wordpress.com
